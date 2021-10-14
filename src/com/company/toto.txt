@@ -1,0 +1,28 @@
+﻿Napoli - Roma
+1
+Empoli - Juventus
+2
+Parma - Internazionale
+1
+Sampdoria - Fiorentina
+1
+Mainz - Bremen
+2
+Hamburg - Leverkusen
+1
+Hannover - E. Frankfurt
+1
+VfB Stuttgart - Wolfsburg
+2
+Bayern München - Dortmund
+1
+Mönchengladbach - Hoffenheim
+1
+FC Köln - Freiburg
+2
+Paderborn - Hertha BSC
+1
+Manchester City - Manchester Utd.
+1
+Milan - Palermo
+2
